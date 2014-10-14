@@ -1,0 +1,40 @@
+<!DOCTYPE html><head>
+<link rel="stylesheet" type="text/css" href="stylesheet.css">
+<title> MundoJundoDundo </title>
+</head> 
+<body background="Yes.jpg">
+
+<header class="banner"><Center><Font size=12><font color="yellow">Welcome to the MundoJundoDundo Website!</font></Font></center></header>
+<Nav>
+
+<p class="first"><dl>
+  
+ <center> <dt><br><img src="UTube.jpg" alt="Mountain View" style="width:304px;height:228px">
+</dt>
+  <dd>- <a href="http://www.youtube.com/user/mundojundodundo/">Check out our Youtube</a></dd>
+  
+  <dt><br><img src="Twitch.jpg" alt="Mountain View" style="width:304px;height:228px">
+</dt>
+  <dd>- <a href="http://twitch.tv/mundojundodundo">Check out our Twitch</a></dd>
+</dl>
+</center>
+</p>
+
+
+
+</Nav>
+<Section>
+<article class="lol">
+<center><Font size=4><mark>Look at some of our favorite gifs!</mark></center></Font>
+</article>
+
+<img style="-webkit-user-select: none; cursor: zoom-in;" src="http://0.tqn.com/y/graphicssoft/1/S/n/p/5/ST_animated_turkey01.gif" width="326" height="326">
+
+<img style="-webkit-user-select: none" src="http://theonlinestuff.com/wp-content/uploads/2011/05/funny-animated-gifs.gif">
+
+<img style="-webkit-user-select: none; cursor: zoom-in;" src="http://i482.photobucket.com/albums/rr185/Cowman2333/DancingT-Pain.gif" width="204" height="371">
+
+<footer class="never">
+<center><mark>Never gonna give you up! So never leave our site.</mark></center>
+</footer>
+
